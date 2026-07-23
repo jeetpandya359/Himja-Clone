@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+}
+
+.body{
+    font-family: 'Montserrat';
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.navbar{
+    position: relative;
+    align-items: center;
+    padding-top: .5rem;
+    padding-bottom: 4.5rem;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    display: flex;
+}
+
+ .navbar .logo-img{
+    width: 4rem;
+    padding-right: 0.5rem;
+ }
+
+.navbar .heading{
+    color: gray;
+    margin-left: 1rem;
+    font-family: 'Ubuntu';
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.navbar .himja{
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: 'Ubuntu';
+    font-weight: bolder;
+    color: rgba(0, 0, 0, .9);
+}
+
+.infotech{
+    color: #ff3d00;
+}
+
+.Navbar-component{
+    flex-basis: 100%;
+    align-items: center;
+}
+
+.navbar ul{
+    justify-content: space-evenly;
+    list-style-type: disc;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    font-size: 1.5rem;
+    display: flex;
+    margin-left: 20rem;
+}
+
+.navbar ul li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+}
+
+.navbar-nav .navitem{
+    padding: 1em 1em;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    /* font-weight: 600; */
+    font-size: 1.5rem;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.nav-link:hover{
+    color: #ff3d00;
+}
+
+.first-mid{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.first-mid h1{
+    font-size: 3rem;
+}
+
+.first-mid p{
+    margin-top: 3rem;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.second-mid{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.second-mid h2{
+    font-size: 2rem;
+}
+
+.second-mid img{
+    height: 12rem;
+    margin-top: 5rem;
+}
+
+.dell{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.hp{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 15rem;
+}
+
+.le{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 15rem;
+}
+
+.mic{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 15rem;
+}
+
+.lo{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 15rem;
+}
+
+.msi{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 15rem;
+}
+
+.qh{
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 15rem;
+}
+
+.second-mid h3{
+    font-size: 2rem;
+    margin-top: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer{
+    margin-top: 5rem;
+    height: 30rem;
+    background-color: black;
+    display: flex;
+}
+
+.left-node{
+    margin-left: 20rem;
+    margin-top: 10rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.left-node h2{
+    margin-bottom: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.left-node p a{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+.left-node p a:hover{
+    color: #ff3d00;
+}
+
+.footer-p{
+    margin-top: 1rem;
+}
+
+.mid-node{
+    display: flex;
+    margin-left: 10rem;
+    margin-top: 10rem;
+}
+
+.mid-node img{
+    margin-top: 2rem;
+    height: 5rem;
+    width: 5rem;
+}
+
+.mid-node a{
+    margin-left: 2rem;
+    margin-top: 3.5rem;
+    text-decoration: none;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.mid-node a:hover{
+    color: #ff3d00;
+}
+
+.right-node{
+    margin-left: 10rem;
+    margin-top: 12rem;
+    width: 20rem;
+}
+
+.right-node h3{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.right-node h4{
+    color: #fff;
+    margin-top: 3rem;
+}
