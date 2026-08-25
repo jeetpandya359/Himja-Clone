@@ -272,17 +272,13 @@ The footer contains:
 
 ### Products Page
 
-```markdown
-![Products Page](./screenshots/products.png)
-```
+<img width="1906" height="948" alt="image" src="https://github.com/user-attachments/assets/5feab6cd-df26-4221-8a4d-721d6a21fc2e" />
+
 
 ### Contact Page
 
-```markdown
-![Contact Page](./screenshots/contact.png)
-```
+<img width="1904" height="928" alt="image" src="https://github.com/user-attachments/assets/0cfad3aa-5f1d-42e6-9972-9c75d2ff5c41" />
 
----
 
 ## 🌐 Live Demo
 
