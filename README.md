@@ -264,18 +264,11 @@ The footer contains:
 ## 📸 Screenshots
 
 ### Homepage
-
-Add your homepage screenshot here:
-
-```markdown
-![Himja Infotech Clone Homepage](./screenshots/homepage.png)
-```
+<img width="1900" height="950" alt="image" src="https://github.com/user-attachments/assets/527c0d7d-24cb-4c64-9715-d5ea909351af" />
 
 ### Services Section
 
-```markdown
-![Services Section](./screenshots/services.png)
-```
+<img width="1899" height="954" alt="image" src="https://github.com/user-attachments/assets/0a63ea4c-8dbb-4a32-b799-65702c4d7158" />
 
 ### Products Page
 
